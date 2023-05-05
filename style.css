@@ -1,0 +1,115 @@
+
+.navbar-nav .nav-link {
+    font-size: 20px;
+  }
+  
+  .navbar{
+  position: sticky;
+  }
+  
+  /* .my-div {
+    margin-top: 31px;
+    margin-bottom: 31px;
+  } */
+  
+  .buttonbooknow{
+  text-align: right;
+  width: 139px;
+  height: 44px;
+  margin-bottom: -80px;
+  margin-left:1370px;
+  }
+  
+  .btnlogin{
+  font-weight: bold;
+  font-size: 20px;
+  color:#fff;
+  border: transparent;
+  width: 94px; 
+  height: 44px;
+  background-color: #FF5733;
+  }
+  .btnlogin:hover {
+  background-color: #FF1833;
+  }
+  
+  .login-btn {
+    width: 100px;
+    height: 84px;
+    float: right;
+    background-color: #FF5733;
+    color: #fff;
+  }
+  
+  .login-btn:hover {
+    background-color: #FF1833;
+  }
+  
+  .navbar-brand{
+  margin-left:20px;
+  }
+  
+  
+  .d-block{
+  width:1220px;
+  height:575px;
+  margin-left: 120px;
+  
+  }
+
+  .judul{
+    padding-top: 60px;
+    margin-left: -27%;
+    font-size: 3em;
+  }
+
+  .i {
+    padding-top: 3%;
+    margin-left: -16%;
+  
+  }
+
+  .i1 {
+    padding-top: 3%;
+    margin-left: -1%;
+  }
+
+  .package {
+    font-size: 1,5em;
+    margin-left: -750px;
+    margin-top: -26px;
+  }
+
+  .buttonbooknow {
+    text-align: right;
+    width: 139px;
+    height: 44px;
+    margin-top: -130px;
+    margin-left:300px;
+    }
+
+    .judul1 {
+      padding-top: 200px;
+      margin-left: -27%;
+      font-size: 3em;
+    }
+
+    @media screen (max-width: 800px) {
+      .judul {
+      font-size : 1em;
+      }
+
+      .package {
+        font-size: 0.2em;
+      }
+
+      .buttonbooknow {
+        width:100px ;
+        height: 20px;
+
+      }
+
+      .judul1 {
+        font-size: 1em;
+      }
+    }
